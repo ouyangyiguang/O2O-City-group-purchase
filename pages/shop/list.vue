@@ -1,0 +1,4 @@
+<template>
+<view></view>
+
+</template>
